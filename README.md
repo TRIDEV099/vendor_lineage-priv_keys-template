@@ -7,7 +7,7 @@ croot && git clone https://github.com/ProjectInfinity-X/vendor_infinity-priv_key
 ```
 
 ```bash
-cd vendor/infinity-priv/keys
+cd vendor/lineage-priv/keys
 ```
 
 ```
