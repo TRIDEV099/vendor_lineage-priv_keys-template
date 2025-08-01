@@ -1,9 +1,9 @@
-# infinity-priv_keys-template
+# lineage-priv_keys-template
 
 # Usage
 
 ```bash
-croot && git clone https://github.com/ProjectInfinity-X/vendor_infinity-priv_keys-template vendor/infinity-priv/keys
+croot && git clone https://github.com/JNWSG/vendor_lineage-priv_keys-template vendor/lineage-priv/keys
 ```
 
 ```bash
